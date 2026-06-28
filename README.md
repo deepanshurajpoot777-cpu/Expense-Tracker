@@ -1,5 +1,4 @@
 # Expense-Tracker
-A simple console-based Expense Tracker developed using Python. This project helps users record daily expenses, view all saved expenses, calculate the total amount spent, and delete expenses by name.
 
 Expense Tracker
 
